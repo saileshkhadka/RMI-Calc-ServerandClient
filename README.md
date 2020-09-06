@@ -9,7 +9,7 @@ Use javac to compile all the java file i.e.
 
 
 Use rmic to create stub and skeleton class file.
-rmic CalculatorImpl
+- rmic CalculatorImpl
 
 
 Start with RMIregistery 
