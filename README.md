@@ -2,10 +2,10 @@
 # Server compute the addition, subtraction, multiplication and division Of a two integer and return result to client.
 
 Use javac to compile all the java file i.e.
-javac Calculator.java
-javac CalculatorImpl.java
-javac CalculatorServer.java
-javac CalculatorClient.java
+> javac Calculator.java
+> javac CalculatorImpl.java
+> javac CalculatorServer.java
+> javac CalculatorClient.java
 
 
 Use rmic to create stub and skeleton class file.
